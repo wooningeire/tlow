@@ -1,0 +1,10 @@
+(  (  a,h    ,      ﾠ            ="e"    ,W, I                   ,     J,  u,   o,  s  )                 =>  {     h                   ="ﾠ T  "          ;     W  =     2+                     h;        I
+=[17 ,  6 /  3    *2, 3  * 5  , 2+        9  , 0, 2    ,4]. map (o=   d=>ﾠ["constru"+    "c"+ "t"+   "or" ]  .    fromCharCode  ( a + d  ) )  .     join(""   );a =0;  n  =  ﾠ=>ﾠ[  I]( /[ﾠ ]/g,"" );h  +=ﾠ+
+n  . name ;  h   += " "  + [] ;   s=      (    i , n   ,  t )=>  i     [  "charCod" +ﾠ + "At" ]  (   )  ; W  =     s  ( W ) *   W [ 0 ]-(W [  0    ]  +  W     [  0  ] *W[0   ] ) ; h = h + o (W)+ ( s+  h
+)  [  5]+  (s+ﾠ   )[~  ~(s  (h) /W/  W   -2)   ] +ﾠ;   W  = Ƴ=>  Ƴ     .   name ;h=  h + W  (  s);    h+=  W  .     x =". "[1    ];J=  Math .       log2  (     s (  W  .x)   ) ; u =(s ( h )  **( J  +   1 )
+             )   ;W.d         =      m                                                        =>m[                                                                                                         []
++"t"       +  "o" +"S"           +             (            s +            "                           "         )          [  4    *     4]    +"r"                     +  "i"  +W     (
+n)   +"g"    ](s    (    h ) /(s (  h  ) /(J  *(J  +1) )))    [  J  ]    ;[u ,h]  =[h +W.    d(u )  , "hi      :)" +o] ;h=  h [J+   ""+  J  -   +1   ]  ; u+=  h+"  "[1    ];   h  =  `${
+  W} ` [   J  ]     ;    u = u + o  (  s (  h  )  /  J )  + ( s  +  u   )  [ J  * J - 2  ]   + W (  s  )      +  o ( J *  J    *    J  - J*J)     ;J =  s ( ﾠ) +  7 ;  u ,   h= this [ "\
+c"+  W(o   )  +    "n"    +  "so" +  "le"]  ;   ;  W.x =    o  (  J);    h[W .    x+( o+h    )[J  -62   ] +    "g" ](n (  u     +   W(o   )+(   W.d   +u) [    (J=  8    ) *J-   5])  ),J }
+                                                                    )                 (                  97                                                    )
